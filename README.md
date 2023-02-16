@@ -1,10 +1,11 @@
-# Open-Security-Training-Architecture
-OS internals learning path from Open Security Training - Register in **p.ost2.fyi**
- 
-### Download DBG extension from:
-* https://gitlab.com/opensecuritytraining/swishdbgext
+# :key: Open Security Training Architecture
+Architecture internals learning path from Open Security Training, provides a set of resources to complete the learning path, includes code-base, videos, techniques, useful articles and concepts to understand the courses provided from Open Security Training.
+
+### Register in [**p.ost2.fyi**](https://p.ost2.fyi)
+___
 
 ### Resources
+
 #### Videos:
 * https://www.youtube.com/watch?v=eItru07D3aE&t=20s
 * https://www.youtube.com/watch?v=TsXzDFjXj2s&t=1770s
@@ -12,10 +13,10 @@ OS internals learning path from Open Security Training - Register in **p.ost2.fy
 * https://www.youtube.com/watch?v=2_aokrfcoUk&t=1887s
 * https://www.youtube.com/watch?v=TsXzDFjXj2s&t=1635s
 
-#### Articles
+#### Articles:
 * Bringing Call Gates Back - https://www.alex-ionescu.com/?p=340
 
-#### Wiki
+#### Wiki:
 * https://en.wikipedia.org/wiki/Memory_management_unit
 * https://en.wikipedia.org/wiki/PaX#Enforced_non-executable_pages
 * https://en.wikipedia.org/wiki/Win32_Thread_Information_Block
@@ -46,5 +47,6 @@ OS internals learning path from Open Security Training - Register in **p.ost2.fy
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-0217
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19965
 
-#### Tools
+#### Tools:
 * ScoopyNG (VMWare detection tool) - https://www.trapkit.de/tools/scoopyng/
+* Swishdbgext - https://gitlab.com/opensecuritytraining/swishdbgext
